@@ -1,0 +1,1 @@
+The app shows a notification/reminder every x minutes. Time interval can be adjusted in the notification window. The timer begins when the notification window is closed and not when the notification window appeared. The notification window initially appears when the app is opened so that it is clear the reminder works, and time/interval can be adjusted.
